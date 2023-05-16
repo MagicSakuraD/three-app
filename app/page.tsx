@@ -1,8 +1,7 @@
 import Image from "next/image";
-import * as THREE from "three";
+// import * as THREE from "three";
 
-const scene = new THREE.Scene();
-
+// const scene = new THREE.Scene();
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
