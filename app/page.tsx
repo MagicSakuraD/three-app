@@ -1,6 +1,6 @@
 import Image from "next/image";
 // import * as THREE from "three";
-// 从2023年5月21日22点16分起，我就是哈佛小学教授Quinn
+// try new things music +
 // const scene = new THREE.Scene();
 export default function Home() {
   return (
